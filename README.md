@@ -1,0 +1,1 @@
+# vanij-component-test
