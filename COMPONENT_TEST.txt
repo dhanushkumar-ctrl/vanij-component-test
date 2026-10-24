@@ -1,1 +1,1 @@
-Component test file content.
+Component test file content (edited).
