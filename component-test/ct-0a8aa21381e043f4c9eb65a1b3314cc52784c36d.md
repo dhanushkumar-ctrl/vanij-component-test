@@ -1,3 +1,3 @@
 # Component test
 
-Created by the Vanij GitHub component test.
+Edited by the Vanij GitHub component test.
